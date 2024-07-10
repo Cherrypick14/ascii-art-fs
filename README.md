@@ -16,7 +16,7 @@ Operating System: `Windows`, `macOS`, `Linux`
 #### Download/Clone:
 ```bash
 
-$ git clone https://learn.zone01kisumu.ke/git/mombewa/ascii-art-output.git
+$ git clone https://learn.zone01kisumu.ke/git/skisenge/ascii-art-fs.git
 
 ```
 
@@ -90,7 +90,7 @@ To run tests, navigate to the asciiart directory and  run the following command
 
 ## Authors
 
-- [@cowalla](https://learn.zone01kisumu.ke/git/cowalla)
+- [@Cherrypick14](https://github.com/Cherrypick14)
 
 - [@mombewa](https://learn.zone01kisumu.ke/git/mombewa)
 
