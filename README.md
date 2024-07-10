@@ -16,7 +16,7 @@ Operating System: `Windows`, `macOS`, `Linux`
 #### Download/Clone:
 ```bash
 
-$ git clone https://learn.zone01kisumu.ke/git/skisenge/ascii-art-fs.git
+$ git clone https://github.com/Cherrypick14/ascii-art-fs.git
 
 ```
 
@@ -92,6 +92,6 @@ To run tests, navigate to the asciiart directory and  run the following command
 
 - [@Cherrypick14](https://github.com/Cherrypick14)
 
-- [@mombewa](https://learn.zone01kisumu.ke/git/mombewa)
+- [@MauriceOmbewa](https://github.com/MauriceOmbewa)
 
-- [@skisenge](https://learn.zone01kisumu.ke/git/skisenge)
+- [@stkisengese](https://github.com/stkisengese)
